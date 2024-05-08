@@ -1,4 +1,4 @@
-package com.design.pattern.behavioral.flyweight.piece;
+package com.design.pattern.structural.flyweight.piece;
 
 /**
  * 享元(FlyWeight)模式主要用于减少创建对象的数量，以降低内存占用，提高性能。
